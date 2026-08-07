@@ -1,5 +1,6 @@
 import React from "react";
-
+import SearchIcon from "@mui/icons-material/Search";
+import PersonIcon from "@mui/icons-material/Person";
 function Header() {
   return (
     <div>
@@ -15,7 +16,17 @@ function Header() {
         <a href="">Contact</a>
       </div>
 
-      <div></div>
+      <div>
+        <div>
+          <input type="text" placeholder="Search" />
+          <SearchIcon />
+        </div>
+        <div>
+          <PersonIcon />
+        </div>
+
+        <button>Sign up</button>
+      </div>
     </div>
   );
 }

@@ -4,7 +4,11 @@ function Hero() {
   return (
     <>
     <div>
-        <div></div>
+        <div>
+            <h1>Find Your Dream Home</h1>
+            <p>Explore our curated selection of exquisite properties meticulously tailored to your unique dream home vision</p>
+            <button>Sign up</button>
+        </div>
 
         <div>
            <img src={hero} alt="hero" />
