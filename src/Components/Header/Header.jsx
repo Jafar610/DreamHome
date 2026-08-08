@@ -9,7 +9,7 @@ function Header() {
         <h2>Dwello</h2>
       </div>
 
-      <div>
+      <div className="flex justify-center align-center">
         <a href="">Home</a>
         <a href="">Service</a>
         <a href="">Agent</a>
