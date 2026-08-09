@@ -9,16 +9,16 @@ function Header() {
         <h2>Dwello</h2>
       </div>
 
-      <div className="flex justify-center align-center">
+      <div className="flex justify-center align-center gap-5">
         <a href="">Home</a>
         <a href="">Service</a>
         <a href="">Agent</a>
         <a href="">Contact</a>
       </div>
 
-      <div>
+      <div className="flex justify-center align-center gap-5">
         <div>
-          <input type="text" placeholder="Search" />
+          <input type="text" placeholder="Search" className="hidden" />
           <SearchIcon />
         </div>
         <div>
