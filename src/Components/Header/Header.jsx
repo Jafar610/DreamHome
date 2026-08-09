@@ -3,8 +3,8 @@ import SearchIcon from "@mui/icons-material/Search";
 import PersonIcon from "@mui/icons-material/Person";
 function Header() {
   return (
-    <div className="flex justify-between align-center">
-      <div>
+    <div className="flex justify-between align-center bg-[#fef7f2] p-5">
+      <div className="border-top-2 border-[#f15a29]">
         <span className="border-top"></span>
         <h2>Dwello</h2>
       </div>
