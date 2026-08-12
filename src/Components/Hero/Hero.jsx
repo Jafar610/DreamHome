@@ -3,7 +3,7 @@ import hero from 'https://hyderabadresidentialprojects.com/projects-in-kondapur/
 function Hero() {
   return (
     <>
-    <div>
+    <div className='flex justify-center gap-4 align-center'>
         <div>
             <h1>Find Your Dream Home</h1>
             <p>Explore our curated selection of exquisite properties meticulously tailored to your unique dream home vision</p>
