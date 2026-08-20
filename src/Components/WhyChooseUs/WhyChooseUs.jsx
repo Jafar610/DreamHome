@@ -47,7 +47,6 @@ function WhyChooseUs() {
                             <h2 className='text-lg font-bold py-2'>Exceptional Support</h2>
                             <p>Benefit from our team's seasoned expertise for a smooth buying experience</p>
                         </div>
-                       
                     </div>
                 </div>
             </div>

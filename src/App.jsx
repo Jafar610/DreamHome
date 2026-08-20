@@ -1,6 +1,7 @@
 import AboutUs from "./Components/AboutUs/AboutUs"
 import Header from "./Components/Header/Header"
 import Hero from "./Components/Hero/Hero"
+import Popular from "./Components/Popular/Popular"
 import WhyChooseUs from "./Components/WhyChooseUs/WhyChooseUs"
 
 
@@ -13,6 +14,7 @@ function App() {
       <Hero/>
       <AboutUs/>
       <WhyChooseUs/>
+      <Popular/>
     </>
   )
 }
