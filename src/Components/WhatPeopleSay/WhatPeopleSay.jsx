@@ -13,7 +13,7 @@ import KeyboardArrowRightIcon from '@mui/icons-material/KeyboardArrowRight';
 function WhatPeopleSay() {
   return (
     <>
-      <div className="w-full mt-20 bg-[#ffffff]">
+      <div className="w-full mt-20 bg-[#fef7f2]">
         <div className="px-20">
           <div className="flex justify-center align-center">
             <h1 className="text-4xl text-[#2B1B12] font-extrabold py-4">
